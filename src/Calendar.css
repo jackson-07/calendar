@@ -37,3 +37,13 @@
   font-size: 1.5em;
 }
 
+.clear-button{
+  font-family: monospace;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  padding: 5px 10px;  
+  font-size: 0.9rem; 
+  margin-bottom: 10px;  
+}
+
